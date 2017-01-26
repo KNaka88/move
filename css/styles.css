@@ -1,21 +1,3 @@
-#moveDiv {
-  position: absolute;
-  left: 50px;
-  top: 50px;
-  width: 10px;
-  height: 10px;
-  background: red;
-}
-
-#moveDiv2 {
-  position: absolute;
-  left: 500px;
-  top: 300px;
-  width: 100px;
-  height: 100px;
-  background: blue;
-}
-
 
 #spacePressedShow {
   display: none;
